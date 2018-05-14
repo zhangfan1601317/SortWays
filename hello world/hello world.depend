@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1526303919 source:e:\zfcode\hello world\main.cpp
+	<iostream>
+	<algorithm>
+	<ctime>
+	"Student.h"
+	"SortTestHelper.h"
+	"SelectSort.h"
+	"InsertSort.h"
+	"BubbleSort.h"
+	"MergeSort.h"
+	"QuickSort.h"
+	"QuickSort2.h"
+	"QuickSort3.h"
+	"ShellSort.h"
+
+1525958384 e:\zfcode\hello world\student.h
+	<iostream>
+	<string>
+
+1526009241 e:\zfcode\hello world\sorttesthelper.h
+	<iostream>
+	<ctime>
+	<cassert>
+
+1526007729 e:\zfcode\hello world\selectsort.h
+
+1526041021 e:\zfcode\hello world\insertsort.h
+
+1526037459 e:\zfcode\hello world\bubblesort.h
+
+1526176954 e:\zfcode\hello world\mergesort.h
+	"InsertSort.h"
+	<algorithm>
+
+1526181763 e:\zfcode\hello world\quicksort.h
+
+1526297779 e:\zfcode\hello world\quicksort2.h
+
+1526302470 e:\zfcode\hello world\quicksort3.h
+
+1526303977 e:\zfcode\hello world\shellsort.h
+

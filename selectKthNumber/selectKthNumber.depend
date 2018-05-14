@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1526302353 source:e:\zfcode\selectkthnumber\main.cpp
+	<iostream>
+	<cassert>
+	<ctime>
+	"SortTestHelper.h"
+
+1526286402 e:\zfcode\selectkthnumber\sorttesthelper.h
+	<iostream>
+	<ctime>
+	<cassert>
+

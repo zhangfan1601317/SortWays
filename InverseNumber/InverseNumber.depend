@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1526286521 source:e:\zfcode\inversenumber\main.cpp
+	<iostream>
+	"SortTestHelper.h"
+
+1526286402 e:\zfcode\inversenumber\sorttesthelper.h
+	<iostream>
+	<ctime>
+	<cassert>
+
