@@ -35,6 +35,18 @@
 		<Unit filename="BubbleSort.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="Heap.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="HeapSortIndex.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="IndexMaxHeap.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="IndexMinHeap.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="InsertSort.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
@@ -42,6 +54,9 @@
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="MergeSort2.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="MinHeap.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="QuickSort.h">
@@ -63,6 +78,9 @@
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="Student.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="heapSort1.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="main.cpp" />

@@ -18,7 +18,7 @@ void shellSort(T arr[],int n)
                 arr[j]=arr[j-h];
             arr[j]=e;
         }
-        n/=3;
+        h/=3;
     }
 }
 
